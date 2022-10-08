@@ -1,4 +1,0 @@
-[submodule "godot-sqlite"]
-	path = godot-sqlite
-	url = https://github.com/lightyears1998/godot-sqlite.git
-	branch = gd-extension-next
