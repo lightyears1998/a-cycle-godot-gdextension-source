@@ -1,4 +1,4 @@
-# A Cycle GDExtension Source
+# A Cycle (Godot) GDExtension Source
 
 This repo contains the GDExtension source files of the addons used in the A Cycle application.
 
